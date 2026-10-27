@@ -1,1 +1,3 @@
-# Restaurant-Ordering-System
+# Restaurant Ordering System
+
+## Simulated Restaurant food ordering system
